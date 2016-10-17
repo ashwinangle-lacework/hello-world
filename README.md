@@ -1,3 +1,4 @@
 # hello-world
-Testing Hello World Repository
-I am a masters student at San Jose State University
+Testing Hello Repository
+I am a student at San Jose State University
+I am a developer
